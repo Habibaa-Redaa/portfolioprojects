@@ -1,3 +1,4 @@
 # portfolioprojects
 sql project
-covid data
+--covid data
+this project is about how visualize tables in many ways using many queries
